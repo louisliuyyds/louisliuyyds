@@ -1,4 +1,7 @@
 ## Hi there 👋
+- I'm currently working on a car-rental management project for the course "objectoriented programming".
+- I'm currently learning basics of operating system in Linux and docker.
+- I'm looking for help with ABAP.
 
 <!--
 **louisliuyyds/louisliuyyds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
