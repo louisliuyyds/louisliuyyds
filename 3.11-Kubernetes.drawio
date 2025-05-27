@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.8">
   <diagram name="Seite-1" id="EK2L3uibeBaXruBm2-Xg">
-    <mxGraphModel dx="1388" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1004" dy="1109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -370,6 +370,17 @@
         </mxCell>
         <mxCell id="PF-AZvKPsO_e9bYHpn-a-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.61;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PF-AZvKPsO_e9bYHpn-a-66" target="PF-AZvKPsO_e9bYHpn-a-82">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PF-AZvKPsO_e9bYHpn-a-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PF-AZvKPsO_e9bYHpn-a-93" target="PF-AZvKPsO_e9bYHpn-a-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PF-AZvKPsO_e9bYHpn-a-95" value="HTTP message" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PF-AZvKPsO_e9bYHpn-a-94">
+          <mxGeometry x="-0.2577" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PF-AZvKPsO_e9bYHpn-a-93" value="Internet" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.uis_ultimate_internet_service;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="780" width="54.900000000000006" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
