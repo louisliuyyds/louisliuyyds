@@ -305,15 +305,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PF-AZvKPsO_e9bYHpn-a-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d3d3d3;strokeWidth=2;align=left;" vertex="1" parent="1">
-          <mxGeometry x="310" y="790" width="160" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="PF-AZvKPsO_e9bYHpn-a-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d3d3d3;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="334" y="670" width="160" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="PF-AZvKPsO_e9bYHpn-a-72" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="870" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="PF-AZvKPsO_e9bYHpn-a-73" value="My own computer" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="765" width="200" height="140" as="geometry" />
         </mxCell>
